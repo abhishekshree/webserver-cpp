@@ -5,9 +5,9 @@ This library essentially uses websockets to create a simple server listening on 
 Library Structure:
 ```
 .
-├── hdelibc.hpp
+├── serverlib.hpp
 ├── Networking
-│   ├── hdelibc-networking.hpp
+│   ├── serverlib-networking.hpp
 │   ├── Servers
 │   ├── Sockets
 │   └── test.sh
